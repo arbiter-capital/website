@@ -1,0 +1,1025 @@
+{
+    "keywords": [
+        "arbiter",
+        "defi",
+        "matic"
+    ],
+    "logoURI": "https://arbiter.capital/tokens/matic.png",
+    "name": "Polygon Tokens",
+    "timestamp": "2021-10-09T16:16:56+00:00",
+    "tokens": [
+        {
+            "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/lelk.png",
+            "name": "Legacy",
+            "symbol": "lELK"
+        },
+        {
+            "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/krill.png",
+            "name": "Krill",
+            "symbol": "KRILL"
+        },
+        {
+            "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/fish.png",
+            "name": "FISH",
+            "symbol": "FISH"
+        },
+        {
+            "address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/$dg.png",
+            "name": "decentral.games",
+            "symbol": "$DG"
+        },
+        {
+            "address": "0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
+            "chainId": 137,
+            "decimals": 8,
+            "logoURI": "https://arbiter.capital/tokens/0xbtc.png",
+            "name": "0xBitcoin Token",
+            "symbol": "0xBTC"
+        },
+        {
+            "address": "0xf2ae0038696774d65E67892c9D301C5f2CbbDa58",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/cxo.png",
+            "name": "CargoX Token",
+            "symbol": "CXO"
+        },
+        {
+            "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/aave.png",
+            "name": "Aave",
+            "symbol": "AAVE"
+        },
+        {
+            "address": "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/aria20.png",
+            "name": "ARIANEE",
+            "symbol": "ARIA20"
+        },
+        {
+            "address": "0x7CdC0421469398e0F3aA8890693d86c840Ac8931",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/azuki.png",
+            "name": "DokiDokiAzuki",
+            "symbol": "AZUKI"
+        },
+        {
+            "address": "0x9c49BA0212Bb5Db371e66b59D1565b7c06E4894e",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/cc10.png",
+            "name": "Cryptocurrency Top Tokens Index",
+            "symbol": "CC10"
+        },
+        {
+            "address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
+            "chainId": 137,
+            "decimals": 4,
+            "logoURI": "https://arbiter.capital/tokens/cel.png",
+            "name": "Celsius",
+            "symbol": "CEL"
+        },
+        {
+            "address": "0xeCf8f2FA183b1C4d2A269BF98A54fCe86C812d3e",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/cfi.png",
+            "name": "CyberFi Token",
+            "symbol": "CFI"
+        },
+        {
+            "address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/comp.png",
+            "name": "Compound",
+            "symbol": "COMP"
+        },
+        {
+            "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/dai.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0x0e59D50adD2d90f5111aca875baE0a72D95B4762",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/db.png",
+            "name": "Dark.Build",
+            "symbol": "DB"
+        },
+        {
+            "address": "0x42435F467D33e5C4146a4E8893976ef12BBCE762",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/defi5.png",
+            "name": "DEFI Top 5 Tokens Index",
+            "symbol": "DEFI5"
+        },
+        {
+            "address": "0x8a2870fb69A90000D6439b7aDfB01d4bA383A415",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/degen.png",
+            "name": "DEGEN Index",
+            "symbol": "DEGEN"
+        },
+        {
+            "address": "0xd28449BB9bB659725aCcAd52947677ccE3719fD7",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/dmt.png",
+            "name": "Dark Matter Token",
+            "symbol": "DMT"
+        },
+        {
+            "address": "0xFeD16c746CB5BFeD009730f9E3e6A673006105c7",
+            "chainId": 137,
+            "decimals": 0,
+            "logoURI": "https://arbiter.capital/tokens/drc.png",
+            "name": "Digital Reserve Currency",
+            "symbol": "DRC"
+        },
+        {
+            "address": "0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/dsla.png",
+            "name": "DSLA",
+            "symbol": "DSLA"
+        },
+        {
+            "address": "0x07738Eb4ce8932CA961c815Cb12C9d4ab5Bd0Da4",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/elet.png",
+            "name": "Elementeum",
+            "symbol": "ELET"
+        },
+        {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/eth.png",
+            "name": "Ether",
+            "symbol": "ETH"
+        },
+        {
+            "address": "0x104592a158490a9228070E0A8e5343B499e125D0",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/frax.png",
+            "name": "Frax",
+            "symbol": "FRAX"
+        },
+        {
+            "address": "0x3e121107F6F22DA4911079845a470757aF4e1A1b",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/fxs.png",
+            "name": "Frax Share",
+            "symbol": "FXS"
+        },
+        {
+            "address": "0x8d1566569d5b695d44a9a234540f68D393cDC40D",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/game.png",
+            "name": "GAME Credits",
+            "symbol": "GAME"
+        },
+        {
+            "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
+            "chainId": 137,
+            "decimals": 8,
+            "logoURI": "https://arbiter.capital/tokens/hex.png",
+            "name": "HEX",
+            "symbol": "HEX"
+        },
+        {
+            "address": "0x521CddC0CBa84F14c69C1E99249F781AA73Ee0BC",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/hh.png",
+            "name": "Holyheld",
+            "symbol": "HH"
+        },
+        {
+            "address": "0xab0b2ddB9C7e440fAc8E140A89c0dbCBf2d7Bbff",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/ifarm.png",
+            "name": "iFARM",
+            "symbol": "iFARM"
+        },
+        {
+            "address": "0xe6FC6C7CB6d2c31b359A49A33eF08aB87F4dE7CE",
+            "chainId": 137,
+            "decimals": 6,
+            "logoURI": "https://arbiter.capital/tokens/igg.png",
+            "name": "IG Gold",
+            "symbol": "IGG"
+        },
+        {
+            "address": "0x313d009888329C9d1cf4f75CA3f32566335bd604",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/lend.png",
+            "name": "EthLend Token",
+            "symbol": "LEND"
+        },
+        {
+            "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/link.png",
+            "name": "ChainLink Token",
+            "symbol": "LINK"
+        },
+        {
+            "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/mana.png",
+            "name": "Decentraland MANA",
+            "symbol": "MANA"
+        },
+        {
+            "address": "0x82B6205002ecd05e97642D38D61e2cFeaC0E18cE",
+            "chainId": 137,
+            "decimals": 9,
+            "logoURI": "https://arbiter.capital/tokens/mdef.png",
+            "name": "Matic Deflect Protocol",
+            "symbol": "mDEF"
+        },
+        {
+            "address": "0x66768ad00746aC4d68ded9f64886d55d5243f5Ec",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/mrbal.png",
+            "name": "Matic Rebalance Token",
+            "symbol": "mRBAL"
+        },
+        {
+            "address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/om.png",
+            "name": "OM",
+            "symbol": "OM"
+        },
+        {
+            "address": "0x48e3883233461C2eF4cB3FcF419D6db07fb86CeA",
+            "chainId": 137,
+            "decimals": 8,
+            "logoURI": "https://arbiter.capital/tokens/sent.png",
+            "name": "Sentinel",
+            "symbol": "SENT"
+        },
+        {
+            "address": "0xa1428174F516F527fafdD146b883bB4428682737",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/super.png",
+            "name": "SuperFarm",
+            "symbol": "SUPER"
+        },
+        {
+            "address": "0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/swap.png",
+            "name": "TrustSwap Token",
+            "symbol": "SWAP"
+        },
+        {
+            "address": "0x043A3Aa319B563aC25D4E342d32bFfb51298DB7b",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/swg.png",
+            "name": "Swirge",
+            "symbol": "SWG"
+        },
+        {
+            "address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/sx.png",
+            "name": "SportX",
+            "symbol": "SX"
+        },
+        {
+            "address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
+            "chainId": 137,
+            "decimals": 8,
+            "logoURI": "https://arbiter.capital/tokens/ubt.png",
+            "name": "Unibright",
+            "symbol": "UBT"
+        },
+        {
+            "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/uni.png",
+            "name": "Uniswap",
+            "symbol": "UNI"
+        },
+        {
+            "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "chainId": 137,
+            "decimals": 6,
+            "logoURI": "https://arbiter.capital/tokens/usdc.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+            "chainId": 137,
+            "decimals": 6,
+            "logoURI": "https://arbiter.capital/tokens/usdt.png",
+            "name": "Tether USD",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0x034b2090b579228482520c589dbD397c53Fc51cC",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/vision.png",
+            "name": "Vision Token",
+            "symbol": "VISION"
+        },
+        {
+            "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+            "chainId": 137,
+            "decimals": 8,
+            "logoURI": "https://arbiter.capital/tokens/wbtc.png",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC"
+        },
+        {
+            "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/wmatic.png",
+            "name": "Wrapped Matic",
+            "symbol": "WMATIC"
+        },
+        {
+            "address": "0xf153EfF70DC0bf3b085134928daeEA248d9B30d0",
+            "chainId": 137,
+            "decimals": 9,
+            "logoURI": "https://arbiter.capital/tokens/xmark.png",
+            "name": "Standard",
+            "symbol": "xMARK"
+        },
+        {
+            "address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/yfi.png",
+            "name": "yearn.finance",
+            "symbol": "YFI"
+        },
+        {
+            "address": "0xe86E8beb7340659DDDCE61727E500e3A5aD75a90",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/zut.png",
+            "name": "ZeroUtility",
+            "symbol": "ZUT"
+        },
+        {
+            "address": "0x033d942A6b495C4071083f4CDe1f17e986FE856c",
+            "chainId": 137,
+            "decimals": 4,
+            "logoURI": "https://arbiter.capital/tokens/aga.png",
+            "name": "AGA Token",
+            "symbol": "AGA"
+        },
+        {
+            "address": "0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
+            "chainId": 137,
+            "decimals": 8,
+            "logoURI": "https://arbiter.capital/tokens/agar.png",
+            "name": "AGA Rewards",
+            "symbol": "AGAr"
+        },
+        {
+            "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/any.png",
+            "name": "Anyswap",
+            "symbol": "ANY"
+        },
+        {
+            "address": "0xFdc26CDA2d2440d0E83CD1DeE8E8bE48405806DC",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/btu.png",
+            "name": "BTU Protocol",
+            "symbol": "BTU"
+        },
+        {
+            "address": "0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/ctsi.png",
+            "name": "Cartesi Token",
+            "symbol": "CTSI"
+        },
+        {
+            "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/fsn.png",
+            "name": "Fusion",
+            "symbol": "FSN"
+        },
+        {
+            "address": "0x7075cAB6bCCA06613e2d071bd918D1a0241379E2",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/gfarm2.png",
+            "name": "Gains V2",
+            "symbol": "GFARM2"
+        },
+        {
+            "address": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/mocean.png",
+            "name": "Ocean Token",
+            "symbol": "mOCEAN"
+        },
+        {
+            "address": "0x6968105460f67c3BF751bE7C15f92F5286Fd0CE5",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/mona.png",
+            "name": "Monavale",
+            "symbol": "MONA"
+        },
+        {
+            "address": "0xf7d9e281c5Cb4C6796284C5b663b3593D2037aF2",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/nftp.png",
+            "name": "NFT Platform Index",
+            "symbol": "NFTP"
+        },
+        {
+            "address": "0x7ff2FC33E161E3b1C6511B934F0209D304267857",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/opu.png",
+            "name": "Opu Coin",
+            "symbol": "OPU"
+        },
+        {
+            "address": "0xe82808eaA78339b06a691fd92E1Be79671cAd8D3",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/plot.png",
+            "name": "PLOT",
+            "symbol": "PLOT"
+        },
+        {
+            "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+            "chainId": 137,
+            "decimals": 2,
+            "logoURI": "https://arbiter.capital/tokens/tel.png",
+            "name": "Telcoin",
+            "symbol": "TEL"
+        },
+        {
+            "address": "0xB77e62709e39aD1cbeEBE77cF493745AeC0F453a",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/wise.png",
+            "name": "Wise Token",
+            "symbol": "WISE"
+        },
+        {
+            "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+            "chainId": 137,
+            "decimals": 9,
+            "logoURI": "https://arbiter.capital/tokens/wolf.png",
+            "name": "moonwolf.io",
+            "symbol": "WOLF"
+        },
+        {
+            "address": "0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/zuz.png",
+            "name": "Zeus",
+            "symbol": "ZUZ"
+        },
+        {
+            "address": "0xf89887862538cE8eFBdbAdD5d483AE4A09dD9688",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/$trdl.png",
+            "name": "Strudel Finance",
+            "symbol": "$TRDL"
+        },
+        {
+            "address": "0x95c300e7740D2A88a44124B424bFC1cB2F9c3b89",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/alcx.png",
+            "name": "Alchemix",
+            "symbol": "ALCX"
+        },
+        {
+            "address": "0x1d2a0E5EC8E5bBDCA5CB219e649B565d8e5c3360",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/amaave.png",
+            "name": "Aave Matic Market AAVE",
+            "symbol": "AMAAVE"
+        },
+        {
+            "address": "0x27F8D03b3a2196956ED754baDc28D73be8830A6e",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/amdai.png",
+            "name": "Aave Matic Market DAI",
+            "symbol": "amDAI"
+        },
+        {
+            "address": "0x1a13F4Ca1d028320A707D99520AbFefca3998b7F",
+            "chainId": 137,
+            "decimals": 6,
+            "logoURI": "https://arbiter.capital/tokens/amusdc.png",
+            "name": "Aave Matic Market USDC",
+            "symbol": "amUSDC"
+        },
+        {
+            "address": "0x60D55F02A771d515e077c9C2403a1ef324885CeC",
+            "chainId": 137,
+            "decimals": 6,
+            "logoURI": "https://arbiter.capital/tokens/amusdt.png",
+            "name": "Aave Matic Market USDT",
+            "symbol": "amUSDT"
+        },
+        {
+            "address": "0x5c2ed810328349100A66B82b78a1791B101C9D61",
+            "chainId": 137,
+            "decimals": 8,
+            "logoURI": "https://arbiter.capital/tokens/amwbtc.png",
+            "name": "Aave Matic Market WBTC",
+            "symbol": "amWBTC"
+        },
+        {
+            "address": "0x28424507fefb6f7f8E9D3860F56504E4e5f5f390",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/amweth.png",
+            "name": "Aave Matic Market WETH",
+            "symbol": "amWETH"
+        },
+        {
+            "address": "0x8dF3aad3a84da6b69A4DA8aeC3eA40d9091B2Ac4",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/amwmatic.png",
+            "name": "Aave Matic Market WMATIC",
+            "symbol": "amWMATIC"
+        },
+        {
+            "address": "0x2628D301b161DB70E3dBbAc88d9D900cA426fF02",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/bbadger.png",
+            "name": "Badger Sett Badger",
+            "symbol": "bBADGER"
+        },
+        {
+            "address": "0xFDde616084427f0A231D0664a985E1F820E34693",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/bdigg.png",
+            "name": "Badger Sett Digg",
+            "symbol": "bDIGG"
+        },
+        {
+            "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/bifi.png",
+            "name": "Beefy",
+            "symbol": "BIFI"
+        },
+        {
+            "address": "0x032b3217241fe53fFaDB334a9d06aACd2A9153D9",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/bnd.png",
+            "name": "DokiDoki.Chainbinders",
+            "symbol": "BND"
+        },
+        {
+            "address": "0x5C7F7Fe4766fE8f0fa9b41E2E4194d939488ff1C",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/doki.png",
+            "name": "DokiDokiFinance",
+            "symbol": "DOKI"
+        },
+        {
+            "address": "0x268Ad27C28601D28b79c792C14e95BD2b7A030F8",
+            "chainId": 137,
+            "decimals": 4,
+            "logoURI": "https://arbiter.capital/tokens/julien.png",
+            "name": "Julien",
+            "symbol": "JULIEN"
+        },
+        {
+            "address": "0x5f084F3EE7EA09E4C01CEE3cDF1B5620A3344fd0",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/kif.png",
+            "name": "KIF",
+            "symbol": "KIF"
+        },
+        {
+            "address": "0x220ED61d1f1CC754cB71978585D69e07Be576315",
+            "chainId": 137,
+            "decimals": 4,
+            "logoURI": "https://arbiter.capital/tokens/ladz.png",
+            "name": "LADZ",
+            "symbol": "LADZ"
+        },
+        {
+            "address": "0xf2b5a8c37278bcdD50727D5CA879f8e5A4642e2e",
+            "chainId": 137,
+            "decimals": 8,
+            "logoURI": "https://arbiter.capital/tokens/meme.png",
+            "name": "MEME",
+            "symbol": "MEME"
+        },
+        {
+            "address": "0x2E220744f9aC1BF3045B0588D339F5fD3bB8623A",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/mm.png",
+            "name": "MM Token",
+            "symbol": "MM"
+        },
+        {
+            "address": "0x652E36ecFA0E4F7e435F6D38688D68a3bE65639c",
+            "chainId": 137,
+            "decimals": 8,
+            "logoURI": "https://arbiter.capital/tokens/mwbtc.png",
+            "name": "Mushrooming WBTC",
+            "symbol": "mWBTC"
+        },
+        {
+            "address": "0xdc0f3C12dF89593357985491bdAcc5Fd789cA4B2",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/mweth.png",
+            "name": "Mushrooming WETH",
+            "symbol": "mWETH"
+        },
+        {
+            "address": "0xfb65ef42F7c8A70ff73F627DB6E9ba2Aff1F20fa",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/ndr.png",
+            "name": "NodeRunners",
+            "symbol": "NDR"
+        },
+        {
+            "address": "0xd7ecf95Cf7eF5256990BeAf4ac895cD9e64cb947",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/pbtc.png",
+            "name": "pBTC",
+            "symbol": "pBTC"
+        },
+        {
+            "address": "0x2b88aD57897A8b496595925F43048301C37615Da",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/pickle.png",
+            "name": "PickleToken",
+            "symbol": "PICKLE"
+        },
+        {
+            "address": "0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/razor.png",
+            "name": "Razor",
+            "symbol": "RAZOR"
+        },
+        {
+            "address": "0xefFCa2dBB2D9F3816ceE07aE2134574FA9210dcb",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/rbag.png",
+            "name": "RebalanceGovernance Token",
+            "symbol": "RBAG"
+        },
+        {
+            "address": "0x87f0BFEE4435CE2B8643b221D0C1CAd21F5328B4",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/sd3crv.png",
+            "name": "Stake DAO USD",
+            "symbol": "sd3Crv"
+        },
+        {
+            "address": "0xe212f92E5Af85268B33D2Aa587B51f49C3B945Be",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/sdcrvrenwsbtc.png",
+            "name": "Stake DAO BTC",
+            "symbol": "sdcrvRenWSBTC"
+        },
+        {
+            "address": "0xfBdb45075Fb73ca4CC8b83FD6fdB4F9B696B1BA1",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/sdeurscrv.png",
+            "name": "Stake DAO EUR",
+            "symbol": "sdeursCRV"
+        },
+        {
+            "address": "0x361A5a4993493cE00f61C32d4EcCA5512b82CE90",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/sdt.png",
+            "name": "Stake DAO Token",
+            "symbol": "SDT"
+        },
+        {
+            "address": "0xA79E0Bfc579c709819f4A0E95d4597f03093B011",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/str.png",
+            "name": "Stater",
+            "symbol": "STR"
+        },
+        {
+            "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/sushi.png",
+            "name": "SushiToken",
+            "symbol": "SUSHI"
+        },
+        {
+            "address": "0x0c5EBeD5cB5BD838BDc43E1583D9d054f3d7Be6c",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/vgtg.png",
+            "name": "VGTGToken",
+            "symbol": "VGTG"
+        },
+        {
+            "address": "0xD921F8318cfd786baB1ea7492673F053c518Ac04",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/xsdt.png",
+            "name": "Staked SDT",
+            "symbol": "xSDT"
+        },
+        {
+            "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/addy.png",
+            "name": "Adamant",
+            "symbol": "ADDY"
+        },
+        {
+            "address": "0x669ddc70273084Ea30e6cd4f28CA6e2C70735065",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/agac.png",
+            "name": "AGAc",
+            "symbol": "AGAc"
+        },
+        {
+            "address": "0xcBce9f77921C2E90522d438dF4C5582F4c617768",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/agacr.png",
+            "name": "AGAcr",
+            "symbol": "AGAcr"
+        },
+        {
+            "address": "0x6C0AB120dBd11BA701AFF6748568311668F63FE0",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/apw.png",
+            "name": "APWine",
+            "symbol": "APW"
+        },
+        {
+            "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/bnb.png",
+            "name": "Binance coin",
+            "symbol": "BNB"
+        },
+        {
+            "address": "0x6863BD30C9e313B264657B107352bA246F8Af8e0",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/bpt.png",
+            "name": "Blackpool",
+            "symbol": "BPT"
+        },
+        {
+            "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/ele.png",
+            "name": "Eleven Finance",
+            "symbol": "ELE"
+        },
+        {
+            "address": "0xF4B0903774532AEe5ee567C02aaB681a81539e92",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/gaj.png",
+            "name": "PolyGaj",
+            "symbol": "GAJ"
+        },
+        {
+            "address": "0x6A174B728D8b7C0C1F239910BB90B3540e1Cc0Dd",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/gsat.png",
+            "name": "GrumpySat",
+            "symbol": "gSAT"
+        },
+        {
+            "address": "0xd93c61D4418d77A537b6B57478C108E193362f0C",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/mbonk.png",
+            "name": "MegaBONK",
+            "symbol": "mBONK"
+        },
+        {
+            "address": "0x9f5755D47fB80100E7ee65Bf7e136FCA85Dd9334",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/om.png",
+            "name": "OM",
+            "symbol": "OM"
+        },
+        {
+            "address": "0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/pauto.png",
+            "name": "Autofarm",
+            "symbol": "pAUTO"
+        },
+        {
+            "address": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",
+            "chainId": 137,
+            "decimals": 8,
+            "logoURI": "https://arbiter.capital/tokens/rendoge.png",
+            "name": "renDOGE",
+            "symbol": "renDOGE"
+        },
+        {
+            "address": "0xBbbe128568222623D21299f019a978C8587B33dC",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/swise.png",
+            "name": "StakeWise",
+            "symbol": "SWISE"
+        },
+        {
+            "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/titan.png",
+            "name": "IRON Titanium Token",
+            "symbol": "TITAN"
+        },
+        {
+            "address": "0xb3B681dEE0435eCc0a508e40B02b3C9068D618cd",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/yam.png",
+            "name": "YAM",
+            "symbol": "YAM"
+        },
+        {
+            "address": "0xb8ab048D6744a276b2772dC81e406a4b769A5c3D",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/wusd.png",
+            "name": "WUSD",
+            "symbol": "WUSD"
+        },
+        {
+            "address": "0x4c4BF319237D98a30A929A96112EfFa8DA3510EB",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/wexpoly.png",
+            "name": "POLYWEX",
+            "symbol": "WEXPOLY"
+        },
+        {
+            "address": "0x37D1EbC3Af809b8fADB45DCE7077eFc629b2B5BB",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/pcomb.png",
+            "name": "Pcomb",
+            "symbol": "PCOMB"
+        },
+        {
+            "address": "0xF521D590Fb1e0b432fD0e020cdbD6c6397d652C2",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/par.png",
+            "name": "Parachute",
+            "symbol": "PAR"
+        },
+        {
+            "address": "0x4DE7FEA447b837d7E77848a4B6C0662a64A84E14",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/wave.png",
+            "name": "polyWAVE",
+            "symbol": "WAVE"
+        },
+        {
+            "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/polydoge.png",
+            "name": "PolyDoge",
+            "symbol": "POLYDOGE"
+        },
+        {
+            "address": "0xb371248Dd0f9E4061ccf8850E9223Ca48Aa7CA4b",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/hny.png",
+            "name": "HNY",
+            "symbol": "HNY"
+        },
+        {
+            "address": "0x3053ad3b31600074e9A90440770f78D5e8Fc5A54",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/waultx.png",
+            "name": "WAULTx",
+            "symbol": "WAULTX"
+        },
+        {
+            "address": "0xF239E69ce434c7Fb408b05a0Da416b14917d934e",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/shi3ld.png",
+            "name": "PolyShield",
+            "symbol": "SHI3LD"
+        },
+        {
+            "address": "0x1E42EDbe5376e717C1B22904C59e406426E8173F",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://arbiter.capital/tokens/surf.png",
+            "name": "SURF",
+            "symbol": "SURF"
+        }
+    ],
+    "version": {
+        "major": 2,
+        "minor": 2,
+        "patch": 0
+    }
+}
