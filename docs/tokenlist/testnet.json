@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://arbiter.capital/tokens/ftm.png",
     "name": "Testnet Tokens",
-    "timestamp": "2021-10-09T16:16:56+00:00",
+    "timestamp": "2021-10-10T16:16:56+00:00",
     "tokens": [
         {
             "address": "0xf1277d1Ed8AD466beddF92ef448A132661956621",
@@ -26,7 +26,7 @@
         },
         {
             "address": "0x179c1be5f1ab9E690c1D1f9156b61cd91eF3B1cE",
-            "chainId": 250,
+            "chainId": 4002,
             "decimals": 18,
             "logoURI": "https://arbiter.capital/tokens/eth.png",
             "name": "Ether",
@@ -34,7 +34,7 @@
         },
         {
             "address": "0x8f0765f41b57CC82c9B2B589555d7c7CA36dDCe4",
-            "chainId": 250,
+            "chainId": 4002,
             "decimals": 6,
             "logoURI": "https://arbiter.capital/tokens/fusdt.png",
             "name": "Frapped USDT",
@@ -42,8 +42,8 @@
         }
     ],
     "version": {
-        "major": 2,
-        "minor": 2,
+        "major": 1,
+        "minor": 1,
         "patch": 0
     }
 }

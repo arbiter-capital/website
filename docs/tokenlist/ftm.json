@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://arbiter.capital/tokens/ftm.png",
     "name": "Fantom Tokens",
-    "timestamp": "2021-10-09T16:16:56+00:00",
+    "timestamp": "2021-10-10T16:16:56+00:00",
     "tokens": [
         {
             "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
@@ -306,8 +306,8 @@
         }
     ],
     "version": {
-        "major": 2,
-        "minor": 2,
+        "major": 1,
+        "minor": 1,
         "patch": 0
     }
 }
