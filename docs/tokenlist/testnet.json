@@ -20,9 +20,9 @@
             "address": "0x69dCB14620fE189b0A2dF5d334723D11C8161360",
             "chainId": 4002,
             "decimals": 8,
-            "logoURI": "https://arbiter.capital/tokens/wbtc.png",
-            "name": "Wrapped BTC",
-            "symbol": "WBTC"
+            "logoURI": "https://arbiter.capital/tokens/btc.png",
+            "name": "Bitcoin",
+            "symbol": "BTC"
         },
         {
             "address": "0x179c1be5f1ab9E690c1D1f9156b61cd91eF3B1cE",
